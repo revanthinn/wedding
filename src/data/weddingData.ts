@@ -19,7 +19,7 @@ export const MANASWITHA_DEEPAK_DETAILS: WeddingDetails = {
   venueNameTelugu: 'పద్మశాలి కళ్యాణ మండపము A/C',
   venueAddress: 'Under Bridge Road, Shiva Nagar, Warangal, Telangana',
   venueAddressTelugu: 'అండర్ బ్రిడ్జ్ రోడ్, శివనగర్, వరంగల్, తెలంగాణ',
-  googleMapsUrl: 'https://www.google.com/maps/search/?api=1&query=Padmashali+Kalyana+Mandapam+Shiva+Nagar+Warangal',
+  googleMapsUrl: 'https://maps.app.goo.gl/wYEZ2hrukMPi37Ku6?g_st=iw',
   lunchNote: 'Lunch follows the wedding',
   lunchNoteTelugu: 'విందు: వివాహానంతరం',
   invitedBy: 'Smt. & Sri Kusuma Vani Sree – Venu Gopal',
